@@ -4,6 +4,8 @@ body {
     margin-right: auto;
 
     background-color: #000;
+    background-image: url('assets/images/bg.png');
+        background-repeat: repeat;
     color: #fff;
 }
 
